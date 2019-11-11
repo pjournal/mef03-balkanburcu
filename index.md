@@ -4,4 +4,4 @@ My personal journal.
 
 ### Week 4 - BKM Assignment
 
-- or the BKM assignment see [BKM Assignment](BKM.html)
+- or the BKM assignment see [BKM Assignment](https://pjournal.github.io/mef03-balkanburcu/BKM.html)
