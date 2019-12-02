@@ -2,6 +2,8 @@
 
 My personal journal.
 
-### Week 4 - BKM Assignment
+### BKM Assignment
+You can see my BKM Assignment[here](https://pjournal.github.io/mef03-balkanburcu/BKM.html)
 
-- For the BKM assignment see [BKM Assignment](https://pjournal.github.io/mef03-balkanburcu/BKM.html)
+### BKM Assignment
+You can see my ATP Tennis Tournaments Analyses [here](https://github.com/pjournal/mef03-balkanburcu/blob/master/ATP_tennis.html)
