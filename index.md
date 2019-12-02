@@ -2,8 +2,8 @@
 
 My personal journal.
 
-### BKM Assignment
+### Homework1
 [BKM Assignment](https://pjournal.github.io/mef03-balkanburcu/BKM.html)
 
-### BKM Assignment
+### Homework2
 [ATP Tennis Tournaments Analyses](https://pjournal.github.io/mef03-balkanburcu/ATP_tennis.html)
