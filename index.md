@@ -1,6 +1,8 @@
 ## Progress Journal - Burcu BALKAN
-### [Markdown HW]
 My personal journal.
+
+### Markdown
+[Markdown HW](https://github.com/pjournal/mef03-balkanburcu/blob/master/Rmarkdown_hw.html)
 
 ### BKM
 [BKM Assignment](https://pjournal.github.io/mef03-balkanburcu/BKM.html)
